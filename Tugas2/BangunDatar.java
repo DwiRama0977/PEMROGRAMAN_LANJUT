@@ -19,6 +19,7 @@ class Lingkaran {
         double tinggi = getJari()*2;
         return tinggi;
     }
+    
 }
 class PersegiPanjang {
     private double panjang;

@@ -76,7 +76,7 @@ public class mainObjek1 {
         double luas = kepala + badan + tanganKiri + tanganKanan + telapakKakiKiri + telapakKakiKanan + kakiKiri + kakiKanan + telapakKakiKiri + telapakKakiKanan;
         return luas;
     }
-    
+
     public static double hitungTinggi (double tinggiKepala, double panjangBadan, double panjangkakiKiri, double tinggitelapakKakiKiri) {
         double tinggi = tinggiKepala + panjangBadan + panjangkakiKiri + tinggitelapakKakiKiri;
         return tinggi;
