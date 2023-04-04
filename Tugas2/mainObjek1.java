@@ -73,7 +73,7 @@ public class mainObjek1 {
     }
 
     public static double hitungLuas (double kepala, double badan, double tanganKiri, double tanganKanan, double telapakTanganKiri, double telapakTanganKanan, double kakiKiri, double kakiKanan, double telapakKakiKiri, double telapakKakiKanan){
-        double luas = kepala + badan + tanganKiri + tanganKanan + telapakKakiKiri + telapakKakiKanan + kakiKiri + kakiKanan + telapakKakiKiri + telapakKakiKanan;
+        double luas = kepala + badan + tanganKiri + tanganKanan + telapakTanganKiri + telapakTanganKanan + kakiKiri + kakiKanan + telapakKakiKiri + telapakKakiKanan;
         return luas;
     }
 
